@@ -29,12 +29,30 @@ Primeiro passo é realizar o cadastro de conta, preenchendo as informações nec
 Depois, pode-se fazer o login com e-mail e senha.
   <img src="https://github.com/IgorBandeira/TalkBuddies/assets/106918230/8e0a4af9-24b9-4ea4-ac8c-0b9f571cec74"/>
 
-  <hr>
-  Ao acessar a tela do chat de conversa, é possível clicar no ícone de "Chats" e clicar no nome do usuário que queira iniciar uma conversa, ou então clicar em mais de um nome para criar um grupo e conversar com os usuários selecionados.
-  ![image](https://github.com/IgorBandeira/TalkBuddies/assets/106918230/93804e20-f76d-4723-9fac-fb963cf97d83)
+<hr>
+Ao acessar a tela do chat de conversa, é possível clicar no ícone de "Chats" e clicar no nome do usuário que queira iniciar uma conversa, ou então clicar em mais de um nome para criar um grupo e conversar com os usuários selecionados ao mesmo tempo.
+<img src="https://github.com/IgorBandeira/TalkBuddies/assets/106918230/93804e20-f76d-4723-9fac-fb963cf97d83"/>
+<br><br>
+<img src="https://github.com/IgorBandeira/TalkBuddies/assets/106918230/885258a1-bcc1-4070-9965-54f2a3e6490e"/>
+<br><br>
+<img src="https://github.com/IgorBandeira/TalkBuddies/assets/106918230/2508bb93-9211-4dae-94a1-4aa2db2be104"/>
+<br><br>
+<img src="https://github.com/IgorBandeira/TalkBuddies/assets/106918230/d9d8a269-c1dc-47d2-a030-87aae39dec1f"/>
+<br><br>
+<img src="https://github.com/IgorBandeira/TalkBuddies/assets/106918230/6ed8791f-3a6c-4bc3-98e4-109ef9910828"/>
+<hr>
+Por fim, é possível trocar mensagens de texto, enviar arquivos e deletar a conversa.
+<img src="https://github.com/IgorBandeira/TalkBuddies/assets/106918230/0b85fcb8-6efa-4f3b-be43-f2e0b9deccdb"/>
+<br><br>
+<img src="https://github.com/IgorBandeira/TalkBuddies/assets/106918230/28081be8-20d1-4bfa-b68a-5e6ff925cbc0"/>
+<hr>
+<div align="center">
   
+`Link para acesso de Talk Buddies:` https://
 
+<div/>
 
+ <img src="https://github.com/IgorBandeira/TalkBuddies/assets/106918230/140ed152-0679-41b4-b2ec-4bf4d2235b4b" width="300" />
 
 </div>
 
