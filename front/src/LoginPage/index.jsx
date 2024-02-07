@@ -28,7 +28,10 @@ const LoginPage = (props) => {
   const onLogin = (e) => {
     e.preventDefault();
     axios
-      .post("http://localhost:3001/login", { username, secret })
+      .post("https://talk-buddies-server.vercel.app/login", {
+        username,
+        secret,
+      })
       .then((r) => {
         props.onAuth({ ...r.data, secret });
         navigate("/chats");
