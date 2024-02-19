@@ -48,7 +48,7 @@ Por fim, é possível trocar mensagens de texto, enviar arquivos e deletar a con
 <hr>
 <div align="center">
   
-`Link para acesso de Talk Buddies:` https://
+`Link para acesso de Talk Buddies:` https://talkbuddies.vercel.app/
 
 <div/>
 
