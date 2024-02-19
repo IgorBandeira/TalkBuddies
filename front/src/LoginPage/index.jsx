@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import axios from "axios";
 import { useNavigate } from "react-router-dom";
-import { Eye, EyeOff } from "lucide-react";
+import { EyeOff, Eye } from "lucide-react";
 
 const LoginPage = (props) => {
   const [username, setUsername] = useState("");
