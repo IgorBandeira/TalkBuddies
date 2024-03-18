@@ -4,8 +4,8 @@ import { useNavigate } from "react-router-dom";
 import { EyeOff, Eye } from "lucide-react";
 
 const LoginPage = (props) => {
-  const [username, setUsername] = useState("");
   const [secret, setSecret] = useState("");
+  const [username, setUsername] = useState("");
   const [error, setError] = useState("");
   const [showPassword, setShowPassword] = useState(false);
   const navigate = useNavigate();
